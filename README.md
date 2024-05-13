@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SylaneCpn
 - 👀 I’m interested in ... the Rust programming language
-- 🌱 I’m currently learning ... javascrips frameworks
+- 🌱 I’m currently learning ... web dev
 - 💞️ I’m looking to collaborate on ... any kind of web project
 - 📫 How to reach me ... sylane.campan@gmail.com
 - ⚡ Fun fact: ... i like turtles 🐢
