@@ -9,7 +9,7 @@
 
 ### 🖥️ Computer Science
 
-![ASM](https://img.shields.io/badge/ASM-007979?style=for-the-badge&logo=ASM&logoColor=white)
+![ASM](https://img.shields.io/badge/ASM-0B7261?style=for-the-badge&logo=ASM&logoColor=white)
 ![C](https://img.shields.io/badge/C-0B7261?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0B7261?style=for-the-badge&logo=C++&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-0B7261?style=for-the-badge&logo=Javascript&logoColor=white)
