@@ -30,7 +30,7 @@
 ![Raspberry_Pi](https://img.shields.io/badge/Raspberry_Pi-007979?style=for-the-badge&logo=Raspberry_Pi&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-007979?style=for-the-badge&logo=VHDL&logoColor=white)
 
-## 🔗 Links
+### 🔗 Links
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sylane-campan-6bb56a230)
 [![github](https://img.shields.io/badge/GitHub-007979?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sylanecpn)
 [![mail](https://img.shields.io/badge/mail-007979?style=for-the-badge&logo=mail&logoColor=white)](mailto:sylane.campan@gmail.com)
