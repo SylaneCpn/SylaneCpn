@@ -1,9 +1,9 @@
 # Hi, I’m @SylaneCpn 👋 
 ## About me
-🎓 I'm currently studying Electronics , Computer Science and Mecatronics at [Brest National School of Engenieering ENIB ](https://www.enib.fr/en_enib/).
-👀 I’m interested in network programming , web developpement , signal processing and embedded systems.
-🌱 I’m currently working on my own self-hosted cloud to stock and access files remotly.
-⚡ I'm always learning to do new things ! 
+🎓 I'm currently studying Electronics , Computer Science and Mecatronics at [Brest National School of Engenieering ENIB ](https://www.enib.fr/en_enib/).  
+👀 I’m interested in network programming , web developpement , signal processing and embedded systems.  
+🌱 I’m currently working on my own self-hosted cloud to stock and access files remotly.  
+⚡ I'm always learning to do new things !   
 
 ## 🛠️ Skills
 
@@ -28,11 +28,10 @@
 ![LTSpice](https://img.shields.io/badge/LTSpice-000000?style=for-the-badge&logo=LTSpice&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry_Pi](https://img.shields.io/badge/Raspberry_Pi-000000?style=for-the-badge&logo=Raspberry_Pi&logoColor=white)
-![SPI/I²C](https://img.shields.io/badge/SPI/I²C-000000?style=for-the-badge&logo=SPI/I²C&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-000000?style=for-the-badge&logo=VHDL&logoColor=white)
 
 ## 🔗 Links
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sylane-campan/)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sylane-campan-6bb56a230)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sylanecpn)
 [![mail](https://img.shields.io/badge/mail-000000?style=for-the-badge&logo=mail&logoColor=white)](mailto:sylane.campan@gmail.com)
 [![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://sylanecpn.github.io/)
