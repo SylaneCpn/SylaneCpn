@@ -7,7 +7,7 @@
 
 ## 🛠️ Skills
 
-### Computer Science
+### 🖥️ Computer Science
 
 ![ASM](https://img.shields.io/badge/ASM-007979?style=for-the-badge&logo=ASM&logoColor=white)
 ![C](https://img.shields.io/badge/C-007979?style=for-the-badge&logo=C&logoColor=white)
@@ -20,7 +20,7 @@
 ![Matlab](https://img.shields.io/badge/Matlab-007979?style=for-the-badge&logo=Matlab&logoColor=white)
 
 
-### Electronics
+### ⚡ Electronics
 
 ![RTOS](https://img.shields.io/badge/RTOS-007979?style=for-the-badge&logo=RTOS&logoColor=white)
 ![ARM CPU](https://img.shields.io/badge/ARM_CPU-007979?style=for-the-badge&logo=ARM_CPU&logoColor=white)
