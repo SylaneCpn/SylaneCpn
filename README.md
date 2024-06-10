@@ -1,4 +1,4 @@
-# Hi, I’m Sylane CAMPAN 👋 
+# 👋 Hi, I’m Sylane CAMPAN 
 ## About me
 🎓 I'm currently studying Electronics , Computer Science and Mecatronics at [Brest National School of Engenieering (ENIB) ](https://www.enib.fr/en_enib/).  
 👀 I’m interested in network programming 🌐 , web developpement 🖥️ , signal processing 🔊 and embedded systems ⚡.  
