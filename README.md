@@ -9,7 +9,7 @@
 
 ### 🖥️ Computer Science
 
-![Languages](https://skillicons.dev/icons?i=c,cpp,rust,python,java,js,matlab,git,linux,bash)
+![Languages](https://skillicons.dev/icons?i=c,cpp,rust,python,java,html,css,js,matlab,git,linux,bash,qt)
 
 ### ⚡ Electronics
 
