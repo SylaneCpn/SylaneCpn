@@ -9,16 +9,7 @@
 
 ### 🖥️ Computer Science
 
-![ASM](https://img.shields.io/badge/ASM-0B7261?style=for-the-badge&logo=ASM&logoColor=white)
-![C](https://img.shields.io/badge/C-0B7261?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0B7261?style=for-the-badge&logo=C++&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-0B7261?style=for-the-badge&logo=Javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0B7261?style=for-the-badge&logo=Python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-0B7261?style=for-the-badge&logo=Rust&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0B7261?style=for-the-badge&logo=Git&logoColor=white)
-![bash](https://img.shields.io/badge/bash-0B7261?style=for-the-badge&logo=bash&logoColor=white)
-![Matlab](https://img.shields.io/badge/Matlab-0B7261?style=for-the-badge&logo=Matlab&logoColor=white)
-
+![Languages](https://skillicons.dev/icons?i=c,cpp,rust,python,java,js,matlab,git,linux,bash)
 
 ### ⚡ Electronics
 
